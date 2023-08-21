@@ -5,11 +5,11 @@ This is a practice project I saw on youtube which is written with HTML & CSS. I 
 
 <h3> Front View ✨ </h3>
 
-![image](https://github.com/SLN4403/Flip-Card/assets/65487726/165a1d40-aa83-415a-a3a1-7285813ef803)
+![image](https://github.com/SLN4403/Flip-Card/assets/65487726/ca04cbc2-a09b-4085-84d9-4fac041bc0b2)
 
 <h3> Back View ✨ </h3>
 
-![image](https://github.com/SLN4403/Flip-Card/assets/65487726/c94e3d13-6c14-4827-bb26-2d29aa83497c)
+![image](https://github.com/SLN4403/Flip-Card/assets/65487726/6dbd1388-63f7-4f81-81fa-5408150f1ca6)
 
 <h3> Link ✨ </h3>
 https://64e34f892e46d80843e3f89d--marvelous-sunflower-99ed34.netlify.app/
