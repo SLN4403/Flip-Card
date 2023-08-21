@@ -1,9 +1,7 @@
 # Flip-Card 💳✨
 
 <h3> Description 📝 </h3>
-This is a practice project I saw on youtube which is writtem with HTML & CSS. I give 100% creadit to the original creator.
-It has two sides which are front and back. When u hover a mouse on a front card, it will immediately flip to the back side. Cool right ?
-
+This is a practice project I saw on youtube which is written with HTML & CSS. I give 100% credit to the original creator. It has two sides, which are front and back. When you hover a mouse onto the front card, it will immediately flip to the back side. Cool, right xD ? I also added a link down below so that you could try in on ur own. 
 
 <h3> Front View ✨ </h3>
 
