@@ -12,4 +12,4 @@ This is a practice project I saw on youtube which is written with HTML & CSS. I 
 ![image](https://github.com/SLN4403/Flip-Card/assets/65487726/6dbd1388-63f7-4f81-81fa-5408150f1ca6)
 
 <h3> Link ✨ </h3>
-https://64e34f892e46d80843e3f89d--marvelous-sunflower-99ed34.netlify.app/
+https://flipthecardui.netlify.app/
